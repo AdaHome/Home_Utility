@@ -1,0 +1,12 @@
+# Blacklist
+/*
+
+
+
+# Whitelist
+!.gitignore
+!src
+!*.adb
+!*.ads
+!*.gpr
+!*.md
